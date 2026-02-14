@@ -1,6 +1,6 @@
-# 6-DOF Planar Robot Simulation
+# 6-DOF Robot Arm Simulation
 
-A 6-DOF planar robotic manipulator simulation written in C.  
+A 6-DOF Arm robotic manipulator simulation written in C.  
 The system uses OpenGL for real-time visualization and GSL for matrix computation.
 
 Developed and tested on Linux (Ubuntu).
