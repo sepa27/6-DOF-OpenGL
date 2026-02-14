@@ -1,0 +1,23 @@
+# Compiled binary
+planar
+*.out
+*.exe
+
+# Object files
+*.o
+
+# Debug files
+*.log
+
+# Build artifacts
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
